@@ -1,0 +1,52 @@
+body {
+    margin: 0px;
+    background-color: black;
+}
+
+.container {
+    text-align: center;
+    width: 70%;
+    margin: auto auto;
+    color: white;
+    background: black;
+}
+
+.jeff {
+    background: url("images/jeff.jpg") no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 500px;
+}
+
+.elon {
+    background: url("images/elon.jpg") no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 500px;
+}
+
+.bernard {
+    background: url("images/bernard.jpg") no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 500px;
+    z-index: -100;
+}
+
+.bill {
+    background: url("images/bill.jpg") no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 500px;
+}
+
+.mark {
+    background: url("images/mark.jpg") no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 500px;
+}
+
+.text {
+    padding: 7%;
+}
